@@ -45,7 +45,7 @@ See `/architecture` directory for diagrams.
 ![Login](screenshots/01-login-page.png)
 
 ### Deployment Dashboard
-![Dashboard](screenshots/02-Dashboard-sports-admin.png)
+![Dashboard](screenshots/02-Dashboard-sys-admin.png)
 
 ### Event List
 ![Event-List](screenshots/03-Event-management-list.png)
