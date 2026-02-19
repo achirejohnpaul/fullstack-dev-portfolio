@@ -51,7 +51,7 @@ See `/architecture` directory for diagrams.
 ![Event-List](screenshots/03-Event-management-list.png)
 
 ### Event Creation
-![Event-creation](screenshots/04-Event-creation.png)
+![Event-creation](screenshots/04-Event-Creation.png)
 
 ### Dashboard Update
 ![Dasboard II](screenshots/05-Event-Created.png)
