@@ -52,7 +52,7 @@ See `/architecture` folder for diagrams.
 ![Events](screenshots/04-Event-list-management.png)
 
 ### Login Interface II
-![Login II](screenshots/"05-System-login-After-New-Event-added.png)
+![Login II](screenshots/05-System-login-After-New-Event-added.png)
 
 ### Sports Director Registration
 ![Registration](screenshots/06-Sports-Director-registration-form.png)
