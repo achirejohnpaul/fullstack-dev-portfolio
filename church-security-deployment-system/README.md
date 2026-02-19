@@ -42,19 +42,19 @@ See `/architecture` directory for diagrams.
 ## Application Walkthrough
 
 ### Login Portal
-![Login](screenshots/01-login.png)
+![Login](screenshots/01-login-page.png)
 
 ### Deployment Dashboard
-![Dashboard](screenshots/02-dashboard.png)
+![Dashboard](screenshots/02-Dashboard-sports-admin.png)
 
-### Personnel Assignment
-![Assignments](screenshots/03-assignments.png)
+### Event List
+![Event-List](screenshots/03-Event-management-list.png)
 
-### Equipment Dispatch
-![Equipment](screenshots/04-equipment.png)
+### Event Creation
+![Event-creation](screenshots/04-Event-creation.png)
 
-### Activity Logs
-![Logs](screenshots/05-logs.png)
+### Dashboard Update
+![Dasboard II](screenshots/05-Event-Created.png)
 
 ## Security Considerations
 - Permission-based access
