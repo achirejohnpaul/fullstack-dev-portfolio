@@ -4,7 +4,7 @@
 🟢 Live Production System
 
 ## Overview
-A centralized digital platform designed to manage university sports operations including event coordination, participant management, and accreditation generation.
+A centralized digital platform designed to manage inter university sports operations including event coordination, participant management, and accreditation generation.
 
 This system replaces manual administrative processes with automated workflows for improved efficiency, accuracy, and accountability.
 
@@ -24,8 +24,8 @@ Universities often rely on spreadsheets and manual tracking for sports events. T
 
 ## Tech Stack
 Backend: Python-based framework  
-Frontend: Web interface (HTML/CSS/JS)  
-Database: Relational DB  
+Frontend: Web interface (HTMX/tailwinds/JS-Alpine)  
+Database: Relational DB 
 Environment: Production server deployment
 
 ## Architecture
@@ -40,19 +40,31 @@ See `/architecture` folder for diagrams.
 ## Application Walkthrough
 
 ### Login Interface
-![Login](screenshots/01-login.png)
+![Login](screenshots/01-System-login-page.png)
 
 ### Dashboard Overview
-![Dashboard](screenshots/02-dashboard.png)
+![Dashboard](screenshots/02-sports-admin-dashboard-view1.png)
 
-### Accreditation Generation
-![Accreditation](screenshots/03-accreditation.png)
+### Create Sports Event
+![Event Create](screenshots/03-sports-admin-add-create-event.png)
 
 ### Event Management Panel
-![Events](screenshots/04-events.png)
+![Events](screenshots/04-Event-list-management.png)
 
-### Data Records
-![Records](screenshots/05-records.png)
+### Login Interface II
+![Login II](screenshots/"05-System-login-After-New-Event-added.png)
+
+### Sports Director Registration
+![Registration](screenshots/06-Sports-Director-registration-form.png)
+
+### Official Registration
+![Registration II](screenshots/07-Official-registration.png)
+
+### Executive Registration
+![Registration III](screenshots/08-Executive-registration-for-event.png)
+
+### Accreditation Card
+![Accreditation](screenshots/09-System-generated-event-card.png)
 
 ## Security Considerations
 - Role-based authorization
